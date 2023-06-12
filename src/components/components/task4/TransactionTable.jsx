@@ -1,5 +1,4 @@
 import React from "react";
-import { PropTypes } from "react";
 import style from "./DataTable.module.css";
 
 const TransactionTable = ({ data }) => {
