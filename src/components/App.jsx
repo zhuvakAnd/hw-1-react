@@ -1,3 +1,4 @@
+import './App.css';
 import Profile from './components/task1/Profile';
 import ListOfProfiles from './components/task1/ListOfProfiles';
 import DataBlock from './components/task2/DataBlock';
