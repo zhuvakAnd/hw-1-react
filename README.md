@@ -1,5 +1,5 @@
 
-[App page](https://zhuvakand.github.io/hw-1-react/)
+[App page](https://zhuvakand.github.io/hw-1-react-SoftLion/)
 # React homework template
 
 Этот проект был создан при помощи
