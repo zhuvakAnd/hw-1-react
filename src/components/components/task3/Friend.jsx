@@ -6,7 +6,7 @@ const Friend = ({isOnline,img,name}) => {
     return (
         <div className={style.friend}>
           {isOnline ? <div className={style.isOnline}></div> : <div className={style.isOffline}></div>}
-          <img src={img}  alt='Image not found/>
+          <img src={img}  alt="Image not found"/>
           <h5>{name}</h5>
         </div>
       );
