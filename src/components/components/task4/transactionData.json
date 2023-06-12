@@ -1,0 +1,5 @@
+[
+    { "type": "Type 1", "amount": 100, "currency": "USD" },
+    { "type": "Type 2", "amount": 200, "currency": "EUR" },
+    { "type": "Type 3", "amount": 300, "currency": "GBP" }
+]

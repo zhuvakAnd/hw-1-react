@@ -1,0 +1,54 @@
+
+:root{
+    --globalWidth: 350px;
+    --globalHeight: 100px;
+}
+
+.friend{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+
+    width: var(--globalWidth);
+    height: var(--globalHeight);
+
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+
+    margin: 10px;
+    background-color: #f0f0f0
+}
+
+
+.friend > img{
+    width: calc(var(--globalWidth)*0.25);
+    height: auto;
+    border-radius: 5px;
+}
+
+.friend > h5{
+    width: calc(var(--globalWidth)*0.65);
+    word-wrap: break-word;
+}
+
+div.friend > * {
+    margin: calc(var(--globalWidth)*0.01);
+}
+
+.isOnline{
+    background-color: rgb(13, 161, 50);
+}
+.isOffline{
+    background-color: rgb(203, 47, 30);
+}
+
+.friend > div{
+    height: calc(var(--globalWidth)*0.0287);
+    width: calc(var(--globalWidth)*0.0287);
+    border-radius: 50%;
+}
+
+
+
+
+
