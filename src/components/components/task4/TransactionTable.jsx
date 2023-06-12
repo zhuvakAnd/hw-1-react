@@ -4,7 +4,7 @@ import style from "./DataTable.module.css";
 
 const TransactionTable = ({ data }) => {
   return (
-    <table>
+    <table className={style.mainTable}>
       <thead>
         <tr>
           <th>Type</th>
