@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/hw-1-react/static/css/main.477e7fd9.css",
-    "main.js": "/hw-1-react/static/js/main.96fa437c.js",
-    "index.html": "/hw-1-react/index.html",
-    "main.477e7fd9.css.map": "/hw-1-react/static/css/main.477e7fd9.css.map",
-    "main.96fa437c.js.map": "/hw-1-react/static/js/main.96fa437c.js.map"
+    "main.css": "/hw-1-react-SoftLion/static/css/main.477e7fd9.css",
+    "main.js": "/hw-1-react-SoftLion/static/js/main.96fa437c.js",
+    "index.html": "/hw-1-react-SoftLion/index.html",
+    "main.477e7fd9.css.map": "/hw-1-react-SoftLion/static/css/main.477e7fd9.css.map",
+    "main.96fa437c.js.map": "/hw-1-react-SoftLion/static/js/main.96fa437c.js.map"
   },
   "entrypoints": [
     "static/css/main.477e7fd9.css",
